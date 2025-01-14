@@ -67,7 +67,7 @@ def _draw_figure(fig):
 
 
 def _default_color(method, hue, color, kws, saturation=1):
-    """If needed, get a default color by using the matplotlib property cycle."""
+    """If needed, get a default color by using the matplotlib property cycle.looks like python to me"""
 
     if hue is not None:
         # This warning is probably user-friendly, but it's currently triggered
